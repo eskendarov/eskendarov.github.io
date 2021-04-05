@@ -1,6 +1,6 @@
 ## Eskendarov
 
-### Мои навыки:
+### Мои навыки
 
 - **Java SE**
     - **OOP**
@@ -21,13 +21,13 @@
 - **Intellij IDEA**
 
 
-### Мои курсы:
+### Мои курсы
 
 - **Java 🞄 Android разработка** - [GeekBrains (Mail.Ru Group)](https://geekbrains.ru/geek_university/android/)
 - **Java разработка** - [Job4j.ru](https://job4j.ru/)
 
 
-### Мои сертификаты:
+### Мои сертификаты
 
 - [x] [«Java. Быстрый старт»](https://gb.ru/certificates/1189288?8a6bbe1e7397daac4fbb26d1ca0199c6)
 - [x] [«Java. Уровень 1»](https://gb.ru/certificates/1189293?4af8d20f2629457b5f7d250f917f8791)
@@ -44,6 +44,6 @@
 - [x] [«Android. Material design»](https://gb.ru/certificates/1186204?a0666c78c172c9b317bc0ca5ad4f30b4)
 
 
-###### Мой GitHub: [github.com/eskendarov](https://github.com/eskendarov/)
+###### Мой GitHub > [github.com/eskendarov](https://github.com/eskendarov/)
 
 ___
