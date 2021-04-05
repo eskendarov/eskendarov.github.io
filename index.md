@@ -41,6 +41,6 @@
 - [x] [«Android. Популярные библиотеки»](https://gb.ru/certificates/1186207?dd5bbfd4a018c57d15e345e2da6dc6b3)
 - [x] [«Android. Material design»](https://gb.ru/certificates/1186204?a0666c78c172c9b317bc0ca5ad4f30b4)
 
-##### Мой GitHub: ![Photo](https://avatars.githubusercontent.com/u/41239252?s=14&v=4) [github.com/eskendarov](https://github.com/eskendarov/)
+##### Мой GitHub: [github.com/eskendarov](https://github.com/eskendarov/)
 
 ___
