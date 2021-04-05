@@ -1,5 +1,3 @@
-# eskendarov.github.io
-
 ## Java Developer
 
 ___
@@ -9,11 +7,21 @@ ___
 - **Java SE**
     - **OOP**
     - **Design Patterns**
-      > `Singleton` `Decorator` `Strategy` `Factory` `Builder`
+        - _Singleton_
+        - _Decorator_
+        - _Strategy_
+        - _Factory_
+        - _Builder_
     - **Collections API**
-      > `List` `Stack` `Queue` `Set` `Map` `Структуры Tree`
+        - _List_
+        - _Stack_
+        - _Queue_
+        - _Set_
+        - _Map_
+        - _Структуры Tree_
     - **Functional Programming**
-      > `Lambda` `Stream API`
+        - _Lambda_
+        - _Stream API_
 - **Android SDK**
 - **JUnit**
 - **JDBC**
@@ -37,7 +45,8 @@ ___
 ___
 
 ### Мои сертификаты:
-- [**«Java. Быстрый старт»**](https://gb.ru/certificates/1189288?8a6bbe1e7397daac4fbb26d1ca0199c6)
+
+- [**«Java. Быстрый старт»**](https://gb.ru/certificates/1189288?8a6bbe1e7397daac4fbb26d1ca0199c6) 
 - [**«Java. Уровень 1»**](https://gb.ru/certificates/1189293?4af8d20f2629457b5f7d250f917f8791)
 - [**«Java Core. Продвинутый уровень»**](https://gb.ru/certificates/519123?3bf830be1cda21dae904e644da924da7)
 - [**«Алгоритмы и структуры данных на Java»**](https://gb.ru/certificates/1186211?2d4b3cc1c471960073c4b2fd3bb2a8a3)
