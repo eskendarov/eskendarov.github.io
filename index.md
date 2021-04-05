@@ -22,7 +22,7 @@
 ### Мои курсы
 
 - **Java 🞄 Android разработка** - [GeekBrains (Mail.Ru Group)](https://geekbrains.ru/geek_university/android/)
-- **Java разработка** - [Job4j.ru](https://job4j.ru/)
+- **Java 🞄 Intern/Junior разработка** - [Job4j.ru](https://job4j.ru/)
 
 ### Мои сертификаты
 
