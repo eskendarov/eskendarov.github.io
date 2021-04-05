@@ -1,7 +1,5 @@
 ## Java Developer
 
-___
-
 ### Мои навыки:
 
 - **Java SE**
@@ -35,14 +33,10 @@ ___
 - **Travis CI, JaCoCo**
 - **Intellij IDEA**
 
-___
-
 ### Мои курсы:
 
 - **Java 🞄 Android разработка** - [GeekBrains (Mail.Ru Group)](https://geekbrains.ru/geek_university/android/)
 - **Java разработка** - [Job4j.ru](https://job4j.ru/)
-
-___
 
 ### Мои сертификаты:
 
@@ -59,3 +53,5 @@ ___
 - [**«Android. Продвинутый уровень»**](https://gb.ru/certificates/1189326?6037c40fc68563ffa36158e38e8d36f9)
 - [**«Android. Популярные библиотеки»**](https://gb.ru/certificates/1186207?dd5bbfd4a018c57d15e345e2da6dc6b3)
 - [**«Android. Material design»**](https://gb.ru/certificates/1186204?a0666c78c172c9b317bc0ca5ad4f30b4)
+
+___
