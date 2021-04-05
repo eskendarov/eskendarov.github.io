@@ -19,7 +19,7 @@
 - **Travis CI, JaCoCo**
 - **Intellij IDEA**
 
-### Мои курсы
+### Пройденные курсы
 
 - **Java 🞄 Android разработка** - [GeekBrains (Mail.Ru Group)](https://geekbrains.ru/geek_university/android/)
 - **Java 🞄 Intern/Junior разработка** - [Job4j.ru](https://job4j.ru/)
