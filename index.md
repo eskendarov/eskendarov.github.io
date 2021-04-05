@@ -1,4 +1,4 @@
-## Eskendarov Enver
+## Eskendarov
 
 ### Мои навыки:
 
