@@ -5,21 +5,11 @@
 - **Java SE**
     - **OOP**
     - **Design Patterns**
-        - _Singleton_
-        - _Decorator_
-        - _Strategy_
-        - _Factory_
-        - _Builder_
+        - _Singleton, Decorator, Strategy, Factory, Builder_
     - **Collections API**
-        - _List_
-        - _Stack_
-        - _Queue_
-        - _Set_
-        - _Map_
-        - _Структуры Tree_
+        - _List, Stack, Queue, Set, Map, Структуры Tree_
     - **Functional Programming**
-        - _Lambda_
-        - _Stream API_
+        - _Lambda, Stream API_
 - **Android SDK**
 - **JUnit**
 - **JDBC**
@@ -54,4 +44,5 @@
 - [**«Android. Популярные библиотеки»**](https://gb.ru/certificates/1186207?dd5bbfd4a018c57d15e345e2da6dc6b3)
 - [**«Android. Material design»**](https://gb.ru/certificates/1186204?a0666c78c172c9b317bc0ca5ad4f30b4)
 
+#### Мой GitHub: [github.com/eskendarov](https://github.com/eskendarov/)
 ___
