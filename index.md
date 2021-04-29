@@ -41,13 +41,13 @@
 - [x] [«Android. Material design»](https://gb.ru/certificates/1186204?a0666c78c172c9b317bc0ca5ad4f30b4)
 
 ### Мои проекты
-- [Система заявок - Tracker](https://github.com/eskendarov/job4j_tracker) (Консольное приложение с пользовательским меню на БД - PostgreSQL).
-- [Клиент-серверное приложение - ChatWell](https://github.com/eskendarov/chatwell) (Приложение чат с использованием БД, регистрации в чате через e-mail и интерфейсом JavaFX).
-- [Android-приложение - WeatherApp](https://github.com/eskendarov/WeatherApp) (Вычисление погоды заданной местности).
-- [Агрегатор вакансий с сайта www.sql.ru](https://github.com/eskendarov/job4j_grabber) (Парсинг HTML, обработка данных)
-- [Разработка кастомных коллекций: List, Map, Queue, Set, Tree](https://github.com/eskendarov/job4j_design/tree/master/chapter_001/src/main/java/ru/job4j/collection)
-- [Файловые менеджеры, архивирование, сериализация (json, xml), логирование](https://github.com/eskendarov/job4j_design/tree/master/chapter_002/src/main/java/ru/job4j/io)
-- [Игра крестики-нолики](https://github.com/eskendarov/games_oop_javafx)
+- [**Система заявок - Tracker**](https://github.com/eskendarov/job4j_tracker) (Консольное приложение с пользовательским меню на БД - PostgreSQL).
+- [**Клиент-серверное приложение - ChatWell**](https://github.com/eskendarov/chatwell) (Приложение чат с использованием БД, регистрации в чате через e-mail и интерфейсом JavaFX).
+- [**Android-приложение - WeatherApp**](https://github.com/eskendarov/WeatherApp) (Вычисление погоды заданной местности).
+- [**Агрегатор вакансий с сайта www.sql.ru**](https://github.com/eskendarov/job4j_grabber) (Парсинг HTML, обработка данных)
+- [**Разработка кастомных коллекций: List, Map, Queue, Set, Tree**](https://github.com/eskendarov/job4j_design/tree/master/chapter_001/src/main/java/ru/job4j/collection)
+- [**Файловые менеджеры, архивирование, сериализация (json, xml), логирование**](https://github.com/eskendarov/job4j_design/tree/master/chapter_002/src/main/java/ru/job4j/io)
+- [**Игра крестики-нолики**](https://github.com/eskendarov/games_oop_javafx)
 
 ###### Мой GitHub: [github.com/eskendarov](https://github.com/eskendarov/)
 ###### Mail: [envereskendarov@gmail.com](envereskendarov@gmail.com)
