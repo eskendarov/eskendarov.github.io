@@ -4,19 +4,6 @@
     <title>Enver Eskendarov - Software Engineer</title>
     <link rel="icon" type="image/png" href="favicon.png" />
     <link rel="stylesheet" href="light-theme.css" id="theme" />
-    <script>
-        function toggleTheme() {
-            const themeLink = document.getElementById("theme");
-            const themeToggle = document.getElementById("themeToggle");
-            if (themeLink.getAttribute("href") === "dark-theme.css") {
-                themeLink.setAttribute("href", "light-theme.css");
-                themeToggle.setAttribute("src", "https://img.icons8.com/emoji/96/crescent-moon-emoji.png");
-            } else {
-                themeLink.setAttribute("href", "dark-theme.css");
-                themeToggle.setAttribute("src", "https://img.icons8.com/fluency/96/sun.png");
-            }
-        }
-    </script>
 </head>
 <html lang="en-us">
     <body>
@@ -116,5 +103,18 @@
                 </div>
             </div>
         </div>
+        <script>
+            function toggleTheme() {
+                const themeLink = document.getElementById("theme");
+                const themeToggle = document.getElementById("themeToggle");
+                if (themeLink.getAttribute("href") === "dark-theme.css") {
+                    themeLink.setAttribute("href", "light-theme.css");
+                    themeToggle.setAttribute("src", "https://img.icons8.com/emoji/96/crescent-moon-emoji.png");
+                } else {
+                    themeLink.setAttribute("href", "dark-theme.css");
+                    themeToggle.setAttribute("src", "https://img.icons8.com/fluency/96/sun.png");
+                }
+            }
+        </script>
     </body>
 </html>
