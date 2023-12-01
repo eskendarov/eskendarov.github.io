@@ -44,14 +44,6 @@ hr {
     background-color: #fff;
 }
 
-section {
-    padding-bottom: 10px;
-}
-
-section > * {
-    margin: 10px;
-}
-
 article.p {
     text-decoration: underline;
 }
