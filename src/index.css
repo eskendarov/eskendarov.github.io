@@ -14,8 +14,6 @@ body {
 
 .main {
     max-width: 1012px;
-    margin-right: auto;
-    margin-left: auto;
     margin: 15px auto 0 auto;
     padding: 15px;
     border-radius: 10px;

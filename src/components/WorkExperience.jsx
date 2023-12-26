@@ -21,7 +21,7 @@ export default function WorkExperience({ workExperience }) {
                             <li key={resIndex}>{responsibility}</li>
                         ))}
                     </ul>
-                    {index != workExperience.length - 1 ? <hr /> : undefined}
+                    {index !== workExperience.length - 1 ? <hr /> : undefined}
                 </div>
             ))}
         </div>

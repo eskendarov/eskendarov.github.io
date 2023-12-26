@@ -17,7 +17,7 @@ export default function Education({ education }) {
                         <span className="period">{edu.period}</span>
                     </h4>
                     <ul>{edu.notes}</ul>
-                    {index != education.length - 1 ? <hr /> : undefined}
+                    {index !== education.length - 1 ? <hr /> : undefined}
                 </div>
             ))}
         </div>
