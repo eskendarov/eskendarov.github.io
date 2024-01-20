@@ -63,11 +63,6 @@ hr {
     vertical-align: sub;
 }
 
-.skills ul {
-    font-weight: 600;
-    columns: 5;
-}
-
 .languages ul {
     columns: 3;
 }
@@ -92,10 +87,6 @@ hr {
 }
 
 @media all and (max-width: 800px) and (orientation: portrait) {
-    .skills ul {
-        columns: 2;
-    }
-
     .languages ul {
         columns: 1;
     }

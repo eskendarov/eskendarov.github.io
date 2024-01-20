@@ -1,15 +1,11 @@
-import { skills } from "../data";
-Skills.propTypes = skills;
-
-export default function Skills({ skills }) {
+export default function Skills({ technicalSkills, softSkills }) {
     return (
         <div className="skills">
-            <h3>Skills</h3>
-            <ul>
-                {skills.map((skill, index) => (
-                    <li key={index}>{skill}</li>
-                ))}
-            </ul>
+            <h3>Professional Skills</h3>
+            <strong>Technical Skills:</strong>
+            <ul>{technicalSkills}</ul>
+            <strong>Soft Skills:</strong>
+            <ul>{softSkills}</ul>
         </div>
     );
 }

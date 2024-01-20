@@ -1,6 +1,3 @@
-import { education } from "../data";
-Education.propTypes = education;
-
 export default function Education({ education }) {
     return (
         <div className="education">

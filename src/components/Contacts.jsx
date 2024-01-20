@@ -1,6 +1,3 @@
-import { contacts } from "../data";
-Contacts.propTypes = contacts;
-
 export default function Contacts({ contacts, icons }) {
     return (
         <div className="contacts">

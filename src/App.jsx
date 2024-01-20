@@ -5,7 +5,17 @@ import Education from "./components/Education.jsx";
 import WorkExperience from "./components/WorkExperience.jsx";
 import Profile from "./components/Profile.jsx";
 
-import { name, icons, contacts, profile, skills, workExperience, education, languages } from "./data.js";
+import {
+    name,
+    icons,
+    contacts,
+    profile,
+    technicalSkills,
+    softSkills,
+    workExperience,
+    education,
+    languages,
+} from "./data.js";
 
 export default function App() {
     return (
@@ -15,7 +25,7 @@ export default function App() {
             <Contacts contacts={contacts} icons={icons} />
             <div className="content">
                 <Profile profile={profile} />
-                <Skills skills={skills} />
+                <Skills technicalSkills={technicalSkills} softSkills={softSkills} />
                 <WorkExperience workExperience={workExperience} />
                 <Education education={education} />
                 <Languages languages={languages} />

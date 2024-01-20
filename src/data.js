@@ -14,20 +14,13 @@ export const { name, contacts } = {
 };
 
 export const profile =
-    "Seasoned Backend Developer with over three years of professional experience in Java, Kotlin, and Spring Framework. Proficient in PostgreSQL and Docker, I excel in creating robust backend solutions. Dedicated to continuous learning, I actively pursue professional courses and engage in side projects to stay at the forefront of technological advancements. My experience and ongoing professional development make me well-suited for challenging roles in a dynamic tech landscape, where I aim to contribute innovative and efficient solutions.";
+    "Experienced Backend Developer with over 3 years of professional expertise in Java, Kotlin, and Spring Framework. Currently expanding my skill set to include front-end technologies such as HTML, CSS, and React.js. Eager to apply my comprehensive technical skills in a dynamic and innovative tech environment.";
 
-export const skills = [
-    "Java",
-    "Kotlin",
-    "Spring Framework",
-    "Microservices",
-    "PostgreSQL",
-    "Hibernate",
-    "Docker",
-    "RESTful",
-    "Jenkins",
-    "CI/CD",
-];
+export const technicalSkills =
+    "Java, Kotlin, Spring Framework, PostgreSQL, Docker, Microservices, Hibernate, RESTful, Jenkins, CI/CD, HTML, CSS, Basic React.js.";
+
+export const softSkills =
+    "Problem-solving, effective communication, team collaboration, continuous learning, adaptability.";
 
 export const workExperience = [
     {

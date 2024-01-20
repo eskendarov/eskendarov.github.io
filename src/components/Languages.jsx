@@ -1,6 +1,3 @@
-import { languages } from "../data";
-Languages.propTypes = languages;
-
 export default function Languages({ languages }) {
     return (
         <div className="languages">

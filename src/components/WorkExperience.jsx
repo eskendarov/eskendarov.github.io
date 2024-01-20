@@ -1,6 +1,3 @@
-import { workExperience } from "../data";
-WorkExperience.propTypes = workExperience;
-
 export default function WorkExperience({ workExperience }) {
     return (
         <div className="expirience">
