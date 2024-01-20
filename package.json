@@ -2,14 +2,17 @@
     "name": "eskendarov.github.io",
     "private": true,
     "version": "0.0.0",
-    "homepage": "http://eskendarov.github.io/eskendarov.github.io",
+    "description": "A personal portfolio website showcasing ReactJS development skills and modern UI components.",
+    "homepage": "https://eskendarov.github.io",
     "type": "module",
     "scripts": {
+        "start": "vite",
         "deploy": "npm run build && gh-pages -d dist -b prod",
-        "dev": "vite",
         "build": "vite build",
         "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-        "preview": "vite preview"
+        "preview": "vite preview",
+        "clean": "rm -rf dist",
+        "lint-fix": "eslint . --ext js,jsx --fix"
     },
     "dependencies": {
         "react": "^18.2.0",
@@ -25,5 +28,16 @@
         "eslint-plugin-react-refresh": "^0.4.5",
         "gh-pages": "^6.1.1",
         "vite": "^5.0.8"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eskendarov/eskendarov.github.io.git"
+    },
+    "keywords": [
+        "react",
+        "vite",
+        "portfolio",
+        "web development"
+    ],
+    "author": "Enver Eskendarov envereskendarov@gmail.com"
 }

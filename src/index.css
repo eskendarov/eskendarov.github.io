@@ -14,10 +14,10 @@ body {
 
 .main {
     max-width: 1012px;
-    margin: 15px auto 0 auto;
+    margin: 15px auto 15px auto;
     padding: 15px;
     border-radius: 10px;
-    box-shadow: 0 0 2px 0.1px #ccc;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
 }
 
 .content {
@@ -43,7 +43,9 @@ h3 {
 }
 
 hr {
-    border: 1px solid #e0e0e0;
+    border: 0;
+    height: 1px;
+    background-color: #b0b0b0;
     margin-bottom: 15px;
 }
 
@@ -125,7 +127,7 @@ a:hover {
     }
 
     hr {
-        border: 1px solid #5e6773;
+        background-color: #5e6773; /* Ensuring visibility in dark mode */
     }
 
     a {
