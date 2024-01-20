@@ -36,10 +36,9 @@ export const workExperience = [
         location: "Netherlands",
         period: "January 2023 - Present",
         responsibilities: [
-            "Engineered a microservice for endangered languages using Java 17, providing a dynamic dictionary service.",
-            "Designed and implemented a robust API with PostgreSQL and Hibernate, enabling advanced word searches and data entry, and integrating fuzzy search technology.",
-            "Spearheaded the development of a dictionary database, focusing on design, scripting, and data integration.",
-            "Developed sophisticated RESTful endpoints for a dictionary service, focusing on efficient and user-friendly access to an extensive linguistic database.",
+            "Developed sophisticated RESTful endpoints, enhancing user access to an extensive linguistic database.",
+            "Redesigned the database structure to support a more complex data architecture, elevating the professional level of the dictionaries.",
+            "Implemented authorization using Spring Security, differentiating roles for regular users, linguists, and admins, enhancing system security and user management.",
         ],
     },
     {
@@ -69,9 +68,9 @@ export const workExperience = [
         location: "Netherlands",
         period: "May 2020 - November 2021",
         responsibilities: [
-            "Assisted with the development and maintenance of software projects, focusing on learning and applying Java and Spring Framework.",
-            "Participated in code reviews and debugging tasks to understand best practices and improve coding skills.",
-            "Collaborated with the development team to implement small-scale features and fix bugs in existing software modules.",
+            "Engineered a microservice for endangered languages using Java 17, delivering a dynamic dictionary service.",
+            "Designed and implemented a robust API with PostgreSQL and Hibernate, integrating fuzzy search technology for advanced word searches and data entry.",
+            "Spearheaded the development of a dictionary database, emphasizing design, scripting, and data integration.",
         ],
     },
 ];
@@ -82,14 +81,21 @@ export const education = [
         institution: "Dagestan State Technical University",
         location: "Russia",
         period: "September 2009 - June 2013",
-        notes: "Gained foundational knowledge in software development, systems analysis, and algorithm design.",
+        notes: "Earned a Bachelor's degree in Computer Science with a specialization in Software Engineering. Gained foundational knowledge in software development, systems analysis, and algorithm design.",
     },
     {
-        course: "Java Development",
+        course: "Java Software Engineering",
         institution: "Java Development Classes",
         location: "Russia",
         period: "May 2020 - September 2021",
         notes: "Completed intensive Java development courses to support a career transition into software engineering. Focused on advanced Java programming, software development best practices, and modern frameworks.",
+    },
+    {
+        course: "React.js Development",
+        institution: "React.js Course",
+        location: "Online",
+        period: "January 2024 - Present",
+        notes: "Actively learning front-end development skills, focusing on HTML, CSS, and React.js.",
     },
 ];
 
