@@ -20,7 +20,7 @@ export const technicalSkills =
     "Java, Kotlin, Spring Framework, PostgreSQL, Docker, Microservices, Hibernate, RESTful, Jenkins, CI/CD, HTML, CSS, Basic React.js.";
 
 export const softSkills =
-    "Problem-solving, effective communication, team collaboration, continuous learning, adaptability.";
+    "Problem-solving, Effective Communication, Team Collaboration, Continuous Learning, Adaptability.";
 
 export const workExperience = [
     {
@@ -88,7 +88,7 @@ export const education = [
         institution: "React.js Course",
         location: "Online",
         period: "January 2024 - Present",
-        notes: "Actively learning front-end development skills, focusing on HTML, CSS, and React.js.",
+        notes: "Actively learning front-end development skills, focusing on HTML, CSS, and ReactJS.",
     },
 ];
 
