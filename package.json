@@ -5,7 +5,7 @@
     "homepage": "http://eskendarov.github.io/eskendarov.github.io",
     "type": "module",
     "scripts": {
-        "deploy": "npm run build && gh-pages -d dist",
+        "deploy": "npm run build && gh-pages -d dist -b prod",
         "dev": "vite",
         "build": "vite build",
         "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
